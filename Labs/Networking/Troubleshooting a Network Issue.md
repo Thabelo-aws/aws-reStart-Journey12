@@ -11,6 +11,7 @@ In this hands-on AWS lab, I assumed the role of a Cloud Support Engineer and inv
     <li>Validate EC2 instance accessibility and web server functionality.</li>
     <li>Identify and resolve security-related configuration errors.</li>
 </ul>
+<img width="249" height="225" alt="image" src="https://github.com/user-attachments/assets/118795cf-12e0-45da-bc38-4cdec04a31f9" />
 
 <h3>Technologies & Services Used</h3>
 <ul>
