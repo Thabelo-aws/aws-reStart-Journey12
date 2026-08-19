@@ -3,6 +3,7 @@
 <p>
 In this hands-on AWS lab, I assumed the role of a Cloud Support Engineer and investigated a customer-reported networking issue affecting an Apache web server hosted on Amazon EC2. The customer was unable to ping the server or access its web page through a browser, requiring a systematic analysis of the AWS networking environment to identify and resolve the root cause.
 </p>
+<img width="249" height="225" alt="image" src="https://github.com/user-attachments/assets/118795cf-12e0-45da-bc38-4cdec04a31f9" />
 
 <h3>Project Objectives</h3>
 <ul>
@@ -11,7 +12,7 @@ In this hands-on AWS lab, I assumed the role of a Cloud Support Engineer and inv
     <li>Validate EC2 instance accessibility and web server functionality.</li>
     <li>Identify and resolve security-related configuration errors.</li>
 </ul>
-<img width="249" height="225" alt="image" src="https://github.com/user-attachments/assets/118795cf-12e0-45da-bc38-4cdec04a31f9" />
+
 
 <h3>Technologies & Services Used</h3>
 <ul>
